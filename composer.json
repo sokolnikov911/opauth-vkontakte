@@ -1,5 +1,5 @@
 {
-	"name": "opauth/vkontakte",
+	"name": "sokolnikov911/opauth-vkontakte-updated",
 	"description": "VKontakte strategy for Opauth",
 	"keywords": ["authentication","auth","vkontakte"],
 	"homepage": "http://opauth.org",
@@ -14,7 +14,12 @@
 			"name": "U-Zyn Chua",
 			"email": "chua@uzyn.com",
 			"homepage": "http://uzyn.com"
-		}
+		},
+		{
+			"name": "Petro Sokolnykov",
+			"email": "info@xyz.net.ua",
+			"homepage": "http://xyz.net.ua"
+		},
 	],
 	"require": {
 		"php": ">=5.2.0",
