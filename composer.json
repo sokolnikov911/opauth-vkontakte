@@ -19,7 +19,7 @@
 			"name": "Petro Sokolnykov",
 			"email": "info@xyz.net.ua",
 			"homepage": "http://xyz.net.ua"
-		},
+		}
 	],
 	"require": {
 		"php": ">=5.2.0",
